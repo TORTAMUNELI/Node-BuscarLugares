@@ -1,0 +1,4 @@
+#Ignorar modulos de node
+node_modules/
+#Ignorar archvios DB
+DB/*.json
